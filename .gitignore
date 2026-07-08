@@ -1,0 +1,26 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# SQLite
+*.db
+*.sqlite3
+
+# Dados brutos
+Data/raw/
+
+# Dados exportados
+Data/output/
+
+# Cache
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
