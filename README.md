@@ -134,7 +134,8 @@ O dashboard apresenta indicadores como:
 
 # 📈 Dashboard
 
-![Dashboard](Imagem/image.png)
+![Uploading image.png…]()
+
 
 O dashboard foi desenvolvido no Power BI com foco em análise esportiva.
 
