@@ -122,12 +122,7 @@ O dashboard apresenta indicadores como:
 - 🟨 Total de Cartões por Seleção
 - 🟨 Cartões Amarelos
 - 🟥 Cartões Vermelhos
-- 🏆 Vitórias
-- 🤝 Empates
-- ❌ Derrotas
 - 📈 Saldo de Gols
-- ⚽ 5 Equipes com mais gols marcados
-- 🥅 5 Equipes com mais gols sofridos
 - ⭐ Ranking de jogadores com mais prêmios "Superior of the Match"
 
 ---
