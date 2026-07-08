@@ -24,3 +24,6 @@ Data/output/
 # Sistema
 .DS_Store
 Thumbs.db
+
+.bat/
+run_pipe.bat
