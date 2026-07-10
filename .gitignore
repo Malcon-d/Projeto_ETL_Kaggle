@@ -25,5 +25,9 @@ Data/output/
 .DS_Store
 Thumbs.db
 
+#arquivo bat
 .bat/
 run_pipe.bat
+
+#variavel de ambiente
+.env
